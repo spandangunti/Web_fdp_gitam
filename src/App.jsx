@@ -11,7 +11,7 @@ function App() {
    },
    {
     name:"manasa",
-    roll:24
+    roll:124
    },
    {
     name:"rajesh",
